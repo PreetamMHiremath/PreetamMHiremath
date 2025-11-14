@@ -4,7 +4,7 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preetam-hiremath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamhiremath172@gmail.com) 
-- [Portfolio Website](https://github.com/PreetamMHiremath/portfolio) – My personal website built with React and Tailwind CSS
+- [Portfolio Website](https://preetams-portfolio.web.app) – My personal website built with HTML CSS And JS
 
 
 # 💻 Tech Stack:
