@@ -1,20 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on Webdevelopment<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m looking for help with Web Development Projects💬 Ask me about<br>⚡ Fun fact I am Hackie<br>📫 How to reach me https://www.linkedin.com/in/preetam-hiremath/
 
-## 🎥 Portfolio Demo
-
-<div align="center">
-  <a href="https://raw.githubusercontent.com/PreetamMHiremath/Data-Sructure/main/Practice%20Lab/Chikki.mp4">
-    <img src="https://github.com/user-attachments/assets/86512ba1-26fb-4b52-976f-d2dcfbfdafd9"
-         alt="Click to watch demo video"
-         width="75%" />
-  </a>
-  <p><b>▶ Click the image to watch demo video</b></p>
-</div>
-
-
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preetam-hiremath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamhiremath172@gmail.com) 
 - [Portfolio Website](https://preetams-portfolio.web.app) – My personal website built with HTML CSS And JS
