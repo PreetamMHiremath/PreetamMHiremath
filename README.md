@@ -1,6 +1,12 @@
 # 💫 About Me:
 🔭 I’m currently working on Webdevelopment<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m looking for help with Web Development Projects💬 Ask me about<br>⚡ Fun fact I am Hackie<br>📫 How to reach me https://www.linkedin.com/in/preetam-hiremath/
 
+## 🎥 Portfolio Demo
+
+<video width="100%" controls muted loop>
+  <source src="https://github.com/user-attachments/assets/07840d68-d79c-42fd-9437-ee0ca0539047" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preetam-hiremath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamhiremath172@gmail.com) 
