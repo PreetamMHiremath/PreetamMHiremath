@@ -3,10 +3,12 @@
 
 ## 🎥 Portfolio Demo
 
-<video width="100%" controls muted loop>
-  <source src="https://github.com/user-attachments/assets/07840d68-d79c-42fd-9437-ee0ca0539047" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <a href="https://preetams-portfolio.web.app" target="_blank">
+    <img src="https://github.com/user-attachments/assets/86512ba1-26fb-4b52-976f-d2dcfbfdafd9" alt="Portfolio Preview" width="75%" />
+  </a>
+</div>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/preetam-hiremath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamhiremath172@gmail.com) 
