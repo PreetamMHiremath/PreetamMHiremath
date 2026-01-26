@@ -1,9 +1,11 @@
 # 💫 About Me:
 🔭 I’m currently working on Webdevelopment<br>👯 I’m looking to collaborate on Web development<br>🌱 I’m looking for help with Web Development Projects💬 Ask me about<br>⚡ Fun fact I am Hackie<br>📫 How to reach me https://www.linkedin.com/in/preetam-hiremath/
 
-https://raw.githubusercontent.com/PreetamMHiremath/Data-Sructure/main/Practice%20Lab/Chikki.mp4
-<video src="https://raw.githubusercontent.com/PreetamMHiremath/Data-Sructure/main/Practice%20Lab/Chikki.mp4
-"/>
+<video width="640" controls>
+  <source src="https://raw.githubusercontent.com/PreetamMHiremath/Data-Sructure/main/Practice%20Lab/Chikki.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 
 ## 🌐 Socials:
