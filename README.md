@@ -3,10 +3,15 @@
 
 ## 🎥 Portfolio Demo
 
+## 🎥 Portfolio Demo
+
 <div align="center">
   <a href="https://preetams-portfolio.web.app" target="_blank">
-    <img src="https://github.com/user-attachments/assets/86512ba1-26fb-4b52-976f-d2dcfbfdafd9" alt="Portfolio Preview" width="75%" />
+    <img src="https://github.com/user-attachments/assets/86512ba1-26fb-4b52-976f-d2dcfbfdafd9"
+         alt="Portfolio Preview"
+         width="75%" />
   </a>
+  <p><b>Click the image to view my live portfolio 🚀</b></p>
 </div>
 
 
