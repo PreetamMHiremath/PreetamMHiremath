@@ -17,7 +17,12 @@
 🌍 **Portfolio**
 👉 https://preetams-portfolio.web.app
 
----
+<h4 align="center">Reach me at</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/preetam-hiremath/" target="_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/032/329/176/non_2x/linkedin-icon-logo-symbol-free-png.png" height="40" width="40" />
+  </a>
+</p>
 
 ## 💻 Tech Stack
 
