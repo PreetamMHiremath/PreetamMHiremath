@@ -6,8 +6,11 @@
 💬 Ask me about **JavaScript, MERN Stack, Backend Development**
 ⚡ Fun fact: *I am Hackie 😎*
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/preetam-hiremath/)
+# Chikki Project
 
+[![Watch the video](https://img.icons8.com/color/48/000000/video.png)](https://github.com/PreetamMHiremath/Chikki/blob/main/Chikki/Chikki.mp4)
 ---
+
 
 ## 🌐 Socials
 
