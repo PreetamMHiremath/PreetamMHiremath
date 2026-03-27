@@ -53,6 +53,7 @@
 
 ![DSA](https://img.shields.io/badge/DSA-%23FF6F00.svg?style=for-the-badge&logo=algorithm&logoColor=white)
 
+![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)
 ---
 
 ## 📊 GitHub Stats
