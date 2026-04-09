@@ -1,7 +1,7 @@
 # 💫 About Me
 
+🚀 Specialized in MERN Stack Development
 🔭 I’m currently working on **Web Development**
-👯 I’m looking to collaborate on **Web Development Projects**
 🌱 Currently learning and improving in **Full Stack Development**
 💬 Ask me about **JavaScript, MERN Stack, Backend Development**
 ⚡ Fun fact: *I am Hackie 😎*
