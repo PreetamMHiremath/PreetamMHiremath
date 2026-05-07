@@ -7,7 +7,7 @@
 ⚡ Fun fact: *I am Hackie 😎*
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/preetam-hiremath/)
 
-
+<img src="[https://static.vecteezy.com/system/resources/previews/032/329/176/non_2x/linkedin-icon-logo-symbol-free-png.png](https://preetams-portfolio.netlify.app/src/Robot%20Image.png)" height="40" width="40" />
 
 ## 🌐 Socials
 
