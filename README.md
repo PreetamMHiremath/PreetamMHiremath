@@ -6,9 +6,9 @@
 💬 Ask me about **JavaScript, MERN Stack, Backend Development**
 ⚡ Fun fact: *I am Hackie 😎*
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/preetam-hiremath/)
-<a align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/USERNAME/REPOSITORY/main/src/Robot%20Image.png" width="200" />
-</a>
+</p>
 
 ## 🌐 Socials
 
