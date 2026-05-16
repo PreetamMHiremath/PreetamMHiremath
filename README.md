@@ -74,11 +74,7 @@
 
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PreetamMHiremath&show_icons=true&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PreetamMHiremath&theme=dark&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PreetamMHiremath&theme=dark&hide_border=false&layout=compact)
 
 ## 🐍 Contribution Snake
 
