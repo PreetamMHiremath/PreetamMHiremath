@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:preetamhiremath172@gmail.com)
 
 🌍 **Portfolio**
-👉 https://preetams-portfolio.web.app
+👉 https://preetams-portfolio.netlify.app
 
 <h4 align="center">Reach me at</h4>
 <p align="center">
