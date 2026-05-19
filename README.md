@@ -4,7 +4,7 @@
 🌱 Currently focusing on **Full Stack Development** 
 
 <img src="https://preetams-portfolio.netlify.app/src/Robot%20Image.png" width="200" />
-## 🌐 Socials
+### 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/preetam-hiremath/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:preetamhiremath172@gmail.com)
