@@ -1,10 +1,7 @@
 # 💫 About Me
 
-🚀 Specialized in MERN Stack Development
-🔭 I’m currently working on **Web Development**
-🌱 Currently learning and improving in **Full Stack Development**
-💬 Ask me about **JavaScript, MERN Stack, Backend Development**
-⚡ Fun fact: *I am Hackie 😎*
+🚀 Specialized in **MERN Stack Development**  
+🌱 Currently focusing on **Full Stack Development** 
 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/preetam-hiremath/)
 
 <img src="https://preetams-portfolio.netlify.app/src/Robot%20Image.png" width="200" />
