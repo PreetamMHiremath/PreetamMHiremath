@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Preetam Hiremath
+# 👋 Hey, I'm Preetam M Hiremath
 
 ### 🚀 Fullstack Developer | Web Specialist
 
