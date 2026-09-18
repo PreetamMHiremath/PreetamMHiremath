@@ -47,13 +47,14 @@
 
 </div>
 
-### 🖥️ Backend Development
+### 🖥️ Backend & Payments
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-%2302042B.svg?style=for-the-badge&logo=razorpay&logoColor=00C2FF)
 ![DSA](https://img.shields.io/badge/DSA-%23FF6F00.svg?style=for-the-badge&logo=algorithm&logoColor=white)
 
 </div>
@@ -62,7 +63,7 @@
 <div align="center">
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -122,7 +123,7 @@
 | Build scalable **Fullstack web applications** | 🔄 In Progress |
 | Master **Next.js** & Server Components | 🔄 In Progress |
 | Contribute to **Open Source Projects** | 🎯 Planned |
-| Master **Cloud Deployment & Nginx** | 🚀 On Track |
+| Master **Cloud Deployment & Payment Gateways** | 🚀 On Track |
 
 </div>
 
