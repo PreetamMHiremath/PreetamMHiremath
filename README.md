@@ -5,7 +5,9 @@
 ### 🚀 Fullstack Developer | Web Specialist
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Developer;MERN+Stack+Specialist;Next.js+Enthusiast;Always+Learning+New+Things!" alt="Typing SVG" />
-
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://preetams-portfolio.netlify.app/src/Robot%20Image.png" width="200" />
+</div>
 <img src="https://preetams-portfolio.netlify.app/src/Robot%20Image.png" width="200" />
 
 </div>
