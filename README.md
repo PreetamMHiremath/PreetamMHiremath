@@ -8,9 +8,6 @@
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://preetams-portfolio.netlify.app/src/Robot%20Image.png" width="200" />
 </div>
-<img src="https://preetams-portfolio.netlify.app/src/Robot%20Image.png" width="200" />
-
-</div>
 
 ---
 
