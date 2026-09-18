@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm Preetam Mahantesh Hiremath
+# 👋 Hey, I'm Preetam Hiremath
 
 ### 🚀 Fullstack Developer | Web Specialist
 
@@ -32,6 +32,7 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 </div>
 
@@ -52,6 +53,7 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-%2302042B.svg?style=for-the-badge&logo=razorpay&logoColor=00C2FF)
@@ -123,7 +125,7 @@
 | Build scalable **Fullstack web applications** | 🔄 In Progress |
 | Master **Next.js** & Server Components | 🔄 In Progress |
 | Contribute to **Open Source Projects** | 🎯 Planned |
-| Master **Cloud Deployment & Payment Gateways** | 🚀 On Track |
+| Master **Prisma ORM & PostgreSQL Management** | 🚀 On Track |
 
 </div>
 
